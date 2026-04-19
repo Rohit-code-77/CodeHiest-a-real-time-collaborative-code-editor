@@ -137,7 +137,7 @@ function EditorPage() {
       <div className="row flex-grow-1">
         {/* Client panel */}
         <div className="col-md-2 bg-dark text-light d-flex flex-column">
-         <img src="/images/CodeHiest.png"
+         <img src="/CodeHiest.png"
               alt="Logo"
               className="img-fluid mx-auto d-block my-2"
                style={{ maxWidth: "auto", height: "auto" }}
