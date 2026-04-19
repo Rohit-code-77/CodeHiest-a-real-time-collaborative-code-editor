@@ -44,8 +44,7 @@ function Home() {
         <div className="col-12 col-md-6">
           <div className="card shadow-sm p-2 mb-5 bg-secondary rounded">
             <div className="card-body text-center bg-dark">
-              <img
-                src="./CodeHiest.png"
+              <img src="/codehiest.png"
                 alt="Logo"
                 className="img-fluid mx-auto d-block"
                 style={{ maxWidth: "100px", height: "auto" }}
