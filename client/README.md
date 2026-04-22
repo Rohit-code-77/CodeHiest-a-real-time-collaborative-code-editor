@@ -29,4 +29,4 @@ This project is built using the following technologies:
 ## Ownership
 
 **Rohit Kadian**  
-Email: [rohitkadian8689@gmail.com](mailto:rohitkadian8689@gmail.com)
+Email: [rohitkadian8689@gmail.com](mailto:rohitkadian8689@gmail.com).
